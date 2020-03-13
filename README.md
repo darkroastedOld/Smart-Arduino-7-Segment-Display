@@ -2,6 +2,17 @@
 A GitHub repo for my diy large seven segment display project
 # How does it work?
 # Materials Used
+For this build i used the following materials and tools:
+- Laptop with the Arduino IDE installed
+- Arduino Nano with USB cable
+- 7 Individually adressable LED's
+- Jumper wires - to connect everything
+- Cardboard - for the frame
+- Aluminium Foil - for the refelection and evenly spreading of light
+
+Tools
+- Soldering Iron
+- Breadboard - for prototyping
 
 # How to Build
 
