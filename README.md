@@ -31,6 +31,7 @@ You can program it yourself by setting each led on or off
 - Use multiple of these for a large timing screen
 - Connect multiple of these to an ESP8266 to view live online statistics, such as Youtube views or subs, likes on Instagram or 
 - 3D print the cardboard part
+- Adding an image to the README.md
 
 # Credits
 - A huge thanks to the makers of the FAST LED library. Without them this project would have never been possible. Go check out their github https://github.com/FastLED/FastLED 
